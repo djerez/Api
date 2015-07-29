@@ -1,0 +1,1 @@
+wscript FixSW2.vbs api.qa.zonaprop.com-soapui-project.xml

@@ -1,0 +1,1 @@
+wscript FixSW1.vbs developers.bumeran-soapui-project.xml
